@@ -1,0 +1,28 @@
+* {
+    margin: 0;
+    padding: 0;
+}
+.continer {
+  border: 2px solid black;
+  border-radius: 10px;
+  width: 350px;
+  height: 550px;
+  display: flex;
+  align-items: center;
+  justify-content: center;
+  margin: auto;
+  margin-top: 30px;
+}
+.custom-btn {
+    width: 265px;
+    margin-top: 25px;
+}
+.anchor{
+    text-decoration: none;
+    
+}
+h1 {
+    display: flex;
+    justify-content: center;
+    align-items: center;
+}
